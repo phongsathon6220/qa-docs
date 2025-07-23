@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqa_docs=self.webpackChunkqa_docs||[]).push([[4448],{5396:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/qa-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqa_docs=self.webpackChunkqa_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/qa-docs/blog","blogTitle":"Blog","authorsListPath":"/qa-docs/blog/authors"}')}}]);
